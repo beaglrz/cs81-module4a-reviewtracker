@@ -1,6 +1,12 @@
-// Weekly reading log
-//Array is storing the week's reading activity.
-//Each line is an object that has the weekday, title of the book, and how long to read.
+/*
+Beatriz Galarza
+Repository: https://github.com/beaglrz/cs81-module4a-reviewtracker
+*/
+
+/* Weekly reading data
+Array is storing the week's reading activity.
+Each line is an object that has the weekday, title of the book, and how long to read.
+*/
 const readingLog = [
   { day: "Monday", book: "Dune", minutes: 30 },
   { day: "Tuesday", book: "1984", minutes: 20 },
